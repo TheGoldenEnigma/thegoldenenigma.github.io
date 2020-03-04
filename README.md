@@ -21,4 +21,4 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 #### Trails
-- Trail 1 - [Hello World!](https://thegoldenenigma.github.io/helloworld.html)
+- [Hello World!](https://thegoldenenigma.github.io/helloworld.html)
