@@ -1,6 +1,8 @@
 ## Trying Github Pages
+Trail 1 -
+[Hello World!](https://thegoldenenigma.github.io/helloworld.html)
 
-### Markdown
+### Quick Markdown References 
 ```markdown 
 Syntax highlighted code block
 
@@ -20,6 +22,5 @@ Syntax highlighted code block
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Trail 1 -
-[Hello World!](https://thegoldenenigma.github.io/helloworld.html)
+
 
