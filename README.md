@@ -20,5 +20,5 @@ Syntax highlighted code block
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-#### Trails
+#### Links
 - [Hello World!](https://thegoldenenigma.github.io/helloworld.html)
