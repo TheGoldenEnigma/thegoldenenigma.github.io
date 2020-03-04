@@ -22,4 +22,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 #### Links
 - [Hello World!](https://thegoldenenigma.github.io/helloworld.html)
-- [My Blog] (https://thegoldenenigma.home.blog/)
+- [My Blog](https://thegoldenenigma.home.blog/)
