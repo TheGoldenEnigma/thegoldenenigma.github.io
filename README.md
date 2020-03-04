@@ -18,7 +18,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-```markdown 
-Trail 1 - [Hello World!](https://thegoldenenigma.github.io/helloworld.html)
+- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Trail 1 - [Hello World!](https://thegoldenenigma.github.io/helloworld.html)
