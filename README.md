@@ -1,4 +1,4 @@
-## Trying Github Pages
+## About Myself
 
 My name is Swarnima and I am a Seattle based Software Engineer by profession. I am currently working with Amazon Alexa. I have also worked with various services in Amazon Web Services like Elastic Block Store, Cloudfront, Lambda@Edge and Global Infrastructure. Prior to this I graduated from State University of New York at Stony Brook where I pursued my Master of Science in Computer Science. I did my Bachelor of Technology in Computer Science and Engineering from National Institute of Technology, Bhopal, India following which I worked with companies like Verizon and Oracle for few years back in India.
 
@@ -7,6 +7,8 @@ Outside work, travel and nature photography are my all time favorite hobbies. I 
 - [MyResume](https://thegoldenenigma.github.io/helloworld.html)
 - [My Blog](https://thegoldenenigma.home.blog/)
 
+
+## Trying github pages
 ### Quick Markdown References 
 ```markdown 
 Syntax highlighted code block
